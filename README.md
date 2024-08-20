@@ -24,8 +24,6 @@
 <br/>
 <br/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
-
 <div align="center">
     <img src="https://skillicons.dev/icons?i=c,cpp,python,java,html,css,javascript,git,linux" />
     <img src="https://skillicons.dev/icons?i=mysql,sklearn,opencv,bash,typescript,github,tensorflow" /><br>
